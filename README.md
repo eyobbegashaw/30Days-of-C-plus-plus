@@ -53,13 +53,4 @@ This repository contains daily lessons, code examples, and projects to help you 
 - Code editor (VS Code, CLion, etc.)
 
 ## 🚀 Getting Started
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/30-days-of-c-plus-plus.git
-cd 30-days-of-c-plus-plus
-
-# Compile and run any day's code
-cd Day-01-Hello-World
-g++ -std=c++17 main.cpp -o program
-./program
+ 
